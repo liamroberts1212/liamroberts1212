@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, I'm Liam.
+### I overcome challenges with teams.
+
+I work as a Software Engineer at [Guidance Analytics](https://github.com/guidance-analytics). I obtained my B.S. in Computer Science & Business and Management from [Rensselaer Polytechnic Institute](https://www.rpi.edu). 
 
 <!--
 **liamroberts1212/liamroberts1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
