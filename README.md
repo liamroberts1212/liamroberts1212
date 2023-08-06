@@ -1,7 +1,8 @@
 ## Hi, I'm Liam.
-### I overcome challenges with teams.
 
-I work as a Software Engineer at [Guidance Analytics](https://github.com/guidance-analytics). I obtained my B.S. in Computer Science & Business and Management from [Rensselaer Polytechnic Institute](https://www.rpi.edu). 
+I work as a Software Engineer at [Guidance Analytics](https://github.com/guidance-analytics). I obtained my B.S. as a dual major in Computer Science & Business and Management from [Rensselaer Polytechnic Institute](https://www.rpi.edu). I aspire to design, develop, and deploy high quality products to address and satisfy the needs of real people. At the core of my being, I believe that treating others with kindness and respect is necesarry in every interation in one's life, acting as the key to authentic human connection and meaningful progress.
+
+I am a runner, guitarist, and (recent) climbing enthusiast. I aspire to become a better version of myself every day. As an avid learner, I embrace new challenges and lean into genuinely hard problems.
 
 <!--
 **liamroberts1212/liamroberts1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
